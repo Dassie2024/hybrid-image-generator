@@ -3,7 +3,7 @@
 This project blends two images into a single optical illusion by combining the low-frequency components of one image with the high-frequency details of another using Fourier transforms.
 
 ### The result? 
-A trippy hybrid where you might see Trump’s face at a glance, but a cat’s face when you squint or step back. 
+A trippy hybrid where you might see President's Trump’s face at a glance, but a cat’s face when you squint or step back. 
 It’s a mind-bending exploration of human perception and frequency filtering in image processing!
 
 ## Demo
@@ -27,7 +27,7 @@ It’s a mind-bending exploration of human perception and frequency filtering in
 
 ## Source Images
 
-| Trump Image | Cat Image |
+| President Trump Image | Cat Image |
 |-------------|-----------|
 | ![](images/trump.png) | ![](images/cat.png) |
 
