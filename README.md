@@ -1,6 +1,10 @@
 # Hybrid Image Generator
 
-This project creates hybrid images by combining low and high frequency components from two input images using Fourier transforms.
+This project blends two images into a single optical illusion by combining the low-frequency components of one image with the high-frequency details of another using Fourier transforms.
+
+### The result? 
+A trippy hybrid where you might see Trump’s face at a glance, but a cat’s face when you squint or step back. 
+It’s a mind-bending exploration of human perception and frequency filtering in image processing!
 
 ## Demo
 ![Hybrid Example](images/hybrid.png)
