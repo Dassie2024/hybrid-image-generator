@@ -3,7 +3,7 @@
 This project creates hybrid images by combining low and high frequency components from two input images using Fourier transforms.
 
 ## Demo
-![Hybrid Example](images/hybrid-cat-trump.png)
+![Hybrid Example](images/hybrid.png)
 
 ## Techniques Used
 - Fourier Transform
